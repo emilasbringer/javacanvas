@@ -1,1 +1,3 @@
-# javacanvas
+#Planering
+
+Program-idé = Pong
